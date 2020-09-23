@@ -1,6 +1,6 @@
 # ranges-numbers-alphabets
 
-- Get a full range of numbers based on your start and stop or a full range of letters a-z in uppercase or lowercase.
+- Get a full range of numbers based on your start, stop, and step or a full range of letters a-z in uppercase or lowercase.
 
 ## Methods Available For Alphabet:
 ```javascript
@@ -10,6 +10,13 @@ arrayAtoZ('UPPERCASE')
 
 ## Methods Available For Numbers:
 *(still working on error checking for this method)*
+
+```javascript
+arrayNumberRange(start, stop, step)
+// start and stop are required (int)
+// step is optional (int)
+// returns an array
+```
 
 - **full range 1 to 100**
 ```javascript
