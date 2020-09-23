@@ -1,0 +1,9 @@
+{
+  "name": "ranges-numbers-alphabets",
+  "version": "1.0.3",
+  "description": "Get a full range of numbers based on your start, stop, and step, or a full range of letters a-z in uppercase or lowercase.",
+  "homepage": "https://github.com/gleekzorp/ranges-numbers-alphabets",
+  "main": "index.js",
+  "author": "Daniel Floyd",
+  "license": "ISC"
+}
